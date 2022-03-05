@@ -37,7 +37,7 @@ Para que ele possa excluir uma recita, primeiro faz login, depois, com o token q
 
 * Para mais informações, sobre como usar essa API, consultar a documentação no Postaman, pois nela, tem exemplos de como usar cada enpoint. 
 
-### Tecnologias utulizadas:
+### Tecnologias utilizadas:
 - Typescript
 - Node.js
 - Dotenv
@@ -49,8 +49,10 @@ Para que ele possa excluir uma recita, primeiro faz login, depois, com o token q
 - Nodemailer
 - Jsonwebtoken
 - Bcryptjs
+- Heroku
 
 ### Documentação do Postaman
 https://documenter.getpostman.com/view/18384258/UVkvJXtT
 
 ### Documentação do Heroku
+https://projeto-cokenu-soraia.herokuapp.com/
